@@ -70,4 +70,4 @@ This repository contains multiple OpenGL-based projects created as part of acade
 ### 1. Install dependencies
 
 ```bash
-pip install PyOpenGL PyOpenGL_accelerate
+python -m pip install PyOpenGL PyOpenGL_accelerate
